@@ -5,10 +5,10 @@
 The objective of this project was to analyze vast employee datasets to uncover valuable insights, optimize HR processes, and foster a more productive work environment at Psyliq.
 
 # Tools and Technologies:
-Excel: Utilized for initial data exploration, cleaning, and basic analysis.
-Power BI: Employed for creating dynamic dashboards and visualizations.
-Statistical Analysis Tools: Leveraged for advanced statistical analysis to extract strategic insights into employee performance and engagement.
-Approach:
+* Excel: Utilized for initial data exploration, cleaning, and basic analysis.
+* Power BI: Employed for creating dynamic dashboards and visualizations.
+* Statistical Analysis Tools: Leveraged for advanced statistical analysis to extract strategic insights into employee performance and engagement.
+# Approach:
 # Data Exploration and Cleaning:
 
 Conducted meticulous exploration and cleaning of diverse employee datasets to ensure data accuracy, completeness, and consistency, laying the foundation for robust analysis.
