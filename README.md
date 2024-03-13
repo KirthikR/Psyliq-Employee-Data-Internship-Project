@@ -1,4 +1,4 @@
-# PSYLIQ EMPLOYEE DATA ANALYSIS PROJECT
+# PSYLIQ EMPLOYEE DATA ANALYSIS INTERNSHIP PROJECT
 # Project Overview:
 # Title: Psyliq Employee Data Analysis Project: Unveiling Insights into Workforce Dynamics
 # Objective:
